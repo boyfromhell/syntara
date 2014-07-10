@@ -63,3 +63,5 @@
     @endforeach
 </tbody>
 </table>
+
+<p class="text-center"><strong>Showing: {{ $datas['users']->count() }} items out of: {{ $datas['users']->getTotal() }} Results</strong></p>
