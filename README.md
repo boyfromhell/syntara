@@ -1,5 +1,5 @@
 # Syntara
-
+[![Hack boyfromhell/syntara on Nitrous](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-19458b540eb9a0b6a943ee6d27941699.png)](https://www.nitrous.io/hack_button?source=embed&runtime=php&repo=boyfromhell%2Fsyntara)
 Syntara is an admin system for Laravel 4, made for user management easier.
 
 
